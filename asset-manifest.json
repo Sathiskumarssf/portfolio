@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2924fffb.css",
-    "main.js": "/portfolio/static/js/main.417ee0c9.js",
+    "main.js": "/portfolio/static/js/main.f44a0605.js",
     "static/media/face.jpg": "/portfolio/static/media/face.7ca2667207a6799b494a.jpg",
     "static/media/background5.jpg": "/portfolio/static/media/background5.b56e3ad061a456cbd31d.jpg",
     "static/media/cc-square.svg": "/portfolio/static/media/cc-square.adbef55b991477c8a8771ec04df008ca.svg",
-    "static/media/instagram.svg": "/portfolio/static/media/instagram.448198b22019bf2f0b71355b8346c675.svg",
     "index.html": "/portfolio/index.html",
     "static/media/github.svg": "/portfolio/static/media/github.a2dcecaacdba94077f71818776dd805b.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.48c578785988bce75017d928a5dc8a14.svg",
     "static/media/house-exclamation-fill.svg": "/portfolio/static/media/house-exclamation-fill.481b8c700b6301a2dbc9dd49d8f1d3ea.svg",
     "static/media/star-fill.svg": "/portfolio/static/media/star-fill.a473aa46e6b1207fe883cf417e936674.svg",
+    "static/media/phone-fill.svg": "/portfolio/static/media/phone-fill.ea70b096e926dd4a7e55d3032e91e5e4.svg",
     "main.2924fffb.css.map": "/portfolio/static/css/main.2924fffb.css.map",
-    "main.417ee0c9.js.map": "/portfolio/static/js/main.417ee0c9.js.map"
+    "main.f44a0605.js.map": "/portfolio/static/js/main.f44a0605.js.map"
   },
   "entrypoints": [
     "static/css/main.2924fffb.css",
-    "static/js/main.417ee0c9.js"
+    "static/js/main.f44a0605.js"
   ]
 }
