@@ -5,7 +5,7 @@ import face from './face.jpg'
 import  BiHeart from '../../node_modules/bootstrap-icons/icons/github.svg'
 import linkdin from '../../node_modules/bootstrap-icons/icons/linkedin.svg'
 import facebook from '../../node_modules/bootstrap-icons/icons/house-exclamation-fill.svg'
-import instagram from '../../node_modules/bootstrap-icons/icons/instagram.svg'
+import phone from '../../node_modules/bootstrap-icons/icons/phone-fill.svg'
 function Randomname() {
       
   return (
@@ -28,7 +28,7 @@ function Randomname() {
               <a class="nav-link active" href="https://www.linkedin.com/in/sathiskumar-sk-97771b246/">LinkedIn <img src={linkdin}/></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="https://www.instagram.com/sathiskumar.sathis.1612147/?hl=en" >Instagram <img src={instagram}/></a>
+              <a class="nav-link active" href="https://www.instagram.com/sathiskumar.sathis.1612147/?hl=en" >075-9686864 <img src={phone}/></a>
             </li>
             <li class="nav-item">
               <a class="nav-link active " aria-disabled="true"href="https://www.facebook.com/sathiskumar.sathis.1612147/">Rathnapura,Rakwana <img src={facebook} /></a>
@@ -51,7 +51,7 @@ function Randomname() {
         <div class="col ">
           <div class="container     w-100   mt-5 pt-5 ">
             <h1>I'm sathis </h1>
-            <h1>Software Engineer undergraduate.my GPA 3.6</h1>
+            <h1>Software Engineer undergraduate.my GPA is 3.6</h1>
             <h5>I learned lot of technologies base on  
              Web devolopment,Data science,Mobile devolopment, and Artificial interlegent</h5>
             <a href='sathiskumarsk2001@gmail.com'><button type="button" class="btn btn-success">Hire me</button></a>
